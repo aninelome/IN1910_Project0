@@ -37,11 +37,9 @@ jobs:
       - name: Test with pytest
         run: |
         pip install pytest
-        pytest YOURFILE.py
+        pytest test_calculator.py
 
 
         
       
         
-
-          echo test, and deploy your project.
