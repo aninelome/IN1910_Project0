@@ -2,4 +2,3 @@ sphinx
 matplotlib
 numpy
 numba
-math
